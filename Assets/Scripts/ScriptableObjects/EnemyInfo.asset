@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a829f8456af3154c947a3505169b8f3, type: 3}
+  m_Name: EnemyInfo
+  m_EditorClassIdentifier: 
+  EnemyList:
+  - EnemyNumber: 0
+    EnemyPokemonList:
+    - EnemyPokemonGameObject: {fileID: 161158, guid: 785ede44c4b05f84c8af8bfa003b0316,
+        type: 3}
+      EnemyPokemonMaxHealth: 50
+      EnemyPokemonCurrentHealth: 50
+      EnemyPokemonName: ratatouille
+      EPokemonType: 0
+      EnemyPokemonLevel: 5
+      EnemyPokemonDamagae: 10
+    - EnemyPokemonGameObject: {fileID: 197044, guid: 5f0706883a962914493653ef8cb5bc61,
+        type: 3}
+      EnemyPokemonMaxHealth: 80
+      EnemyPokemonCurrentHealth: 80
+      EnemyPokemonName: Goblin
+      EPokemonType: 0
+      EnemyPokemonLevel: 8
+      EnemyPokemonDamagae: 15
+    - EnemyPokemonGameObject: {fileID: 109496, guid: 219d9dc8fc9f9b5449b86d4808abdec3,
+        type: 3}
+      EnemyPokemonMaxHealth: 100
+      EnemyPokemonCurrentHealth: 100
+      EnemyPokemonName: Orc
+      EPokemonType: 0
+      EnemyPokemonLevel: 10
+      EnemyPokemonDamagae: 20
+  - EnemyNumber: 1
+    EnemyPokemonList:
+    - EnemyPokemonGameObject: {fileID: 144896, guid: 57d6837831ec67f4fb0df309314fb98f,
+        type: 3}
+      EnemyPokemonMaxHealth: 60
+      EnemyPokemonCurrentHealth: 60
+      EnemyPokemonName: Ice Golem
+      EPokemonType: 1
+      EnemyPokemonLevel: 15
+      EnemyPokemonDamagae: 15
+    - EnemyPokemonGameObject: {fileID: 183560, guid: 7ba1b046d3fe87c4c98c72dc902e87df,
+        type: 3}
+      EnemyPokemonMaxHealth: 80
+      EnemyPokemonCurrentHealth: 80
+      EnemyPokemonName: Rock Golem
+      EPokemonType: 0
+      EnemyPokemonLevel: 20
+      EnemyPokemonDamagae: 20
+    - EnemyPokemonGameObject: {fileID: 118750, guid: 9e600d53c8c86594783fe2710384bc9e,
+        type: 3}
+      EnemyPokemonMaxHealth: 100
+      EnemyPokemonCurrentHealth: 100
+      EnemyPokemonName: Tree Ent
+      EPokemonType: 0
+      EnemyPokemonLevel: 25
+      EnemyPokemonDamagae: 25
+  - EnemyNumber: 2
+    EnemyPokemonList:
+    - EnemyPokemonGameObject: {fileID: 151928, guid: 4173226ece88fe042bcb1a5de30a2d6b,
+        type: 3}
+      EnemyPokemonMaxHealth: 90
+      EnemyPokemonCurrentHealth: 90
+      EnemyPokemonName: Griffon
+      EPokemonType: 0
+      EnemyPokemonLevel: 25
+      EnemyPokemonDamagae: 20
+    - EnemyPokemonGameObject: {fileID: 108602, guid: 6f155470f82570841b824134cb620649,
+        type: 3}
+      EnemyPokemonMaxHealth: 100
+      EnemyPokemonCurrentHealth: 100
+      EnemyPokemonName: Harpy
+      EPokemonType: 1
+      EnemyPokemonLevel: 28
+      EnemyPokemonDamagae: 30
+    - EnemyPokemonGameObject: {fileID: 134614, guid: 5347fd82d93e18f45953c56e4b30f04c,
+        type: 3}
+      EnemyPokemonMaxHealth: 150
+      EnemyPokemonCurrentHealth: 150
+      EnemyPokemonName: Drake
+      EPokemonType: 2
+      EnemyPokemonLevel: 30
+      EnemyPokemonDamagae: 40
+  - EnemyNumber: 3
+    EnemyPokemonList:
+    - EnemyPokemonGameObject: {fileID: 140824, guid: 7acd807f6e407054eabe771d7b19dafd,
+        type: 3}
+      EnemyPokemonMaxHealth: 120
+      EnemyPokemonCurrentHealth: 120
+      EnemyPokemonName: Demon Comander
+      EPokemonType: 2
+      EnemyPokemonLevel: 30
+      EnemyPokemonDamagae: 30
+    - EnemyPokemonGameObject: {fileID: 144692, guid: 3f8ad08630124d849bd213ec91fe8427,
+        type: 3}
+      EnemyPokemonMaxHealth: 150
+      EnemyPokemonCurrentHealth: 150
+      EnemyPokemonName: Old Drake
+      EPokemonType: 2
+      EnemyPokemonLevel: 35
+      EnemyPokemonDamagae: 30
+    - EnemyPokemonGameObject: {fileID: 118136, guid: 671306f7395630a4f8cb96159b796198,
+        type: 3}
+      EnemyPokemonMaxHealth: 200
+      EnemyPokemonCurrentHealth: 200
+      EnemyPokemonName: Demon Lord
+      EPokemonType: 2
+      EnemyPokemonLevel: 50
+      EnemyPokemonDamagae: 40

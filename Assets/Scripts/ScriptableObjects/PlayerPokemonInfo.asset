@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e37dabd7e30f75445900eb47af7561ed, type: 3}
+  m_Name: PlayerPokemonInfo
+  m_EditorClassIdentifier: 
+  PokemonList:
+  - PlayerPokemonGameObject: {fileID: 354261774382638037, guid: 716dfdd9856315644a539af6678dbf01,
+      type: 3}
+    PlayerPokemonMaxHealth: 80
+    PlayerPokemonCurrentHealth: 80
+    PlayerPokemonName: Beginer Mage
+    PPokemonType: 0
+    PlayerPokemonLevel: 10
+    PlayerPokemonDamagae: 20
+  - PlayerPokemonGameObject: {fileID: 1813821491742931917, guid: 22f0dfcebbf442f4fb45bbb6526adec8,
+      type: 3}
+    PlayerPokemonMaxHealth: 150
+    PlayerPokemonCurrentHealth: 150
+    PlayerPokemonName: Old Mage
+    PPokemonType: 0
+    PlayerPokemonLevel: 30
+    PlayerPokemonDamagae: 35
+  - PlayerPokemonGameObject: {fileID: 66036662351386928, guid: eba0fec0a07081d41a123cba4e1e25e4,
+      type: 3}
+    PlayerPokemonMaxHealth: 200
+    PlayerPokemonCurrentHealth: 200
+    PlayerPokemonName: Merlin the Wizard
+    PPokemonType: 2
+    PlayerPokemonLevel: 50
+    PlayerPokemonDamagae: 50

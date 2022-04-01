@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8685224151966237921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8685224151966237923}
+  - component: {fileID: 8685224151966237920}
+  m_Layer: 0
+  m_Name: BattleSystemObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8685224151966237923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8685224151966237921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.9876416, y: -0.71249247, z: 4.6880617}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8685224151966237920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8685224151966237921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff024ec197e8fd40927a6e080998c1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerBattleStation: {fileID: 0}
+  state: 0
+  PN: 0
+  playerHUD: {fileID: 0}
+  PPokemonGo: {fileID: 0}
+  PlayerPScriptableObject: {fileID: 11400000, guid: baee74c3bc36d734bb1f3cbeb3d0be8c,
+    type: 2}
+  EnemyBattleStation: {fileID: 0}
+  Enemynumber: 0
+  EPN: 0
+  EnemyNumber: 0
+  enemyHUD: {fileID: 0}
+  EPokemonGo: {fileID: 0}
+  EnemyScriptableObject: {fileID: 11400000, guid: 5cd53a57b01bafe4cae6c37db56e0ac7,
+    type: 2}
+  dialogueText: {fileID: 0}
+  isEnemyPokemonDead: 0
+  isPlayerPokemonDead: 0
+  healinghNumber: 0
+  checkFromPlayerPokemonHealthAttheMomentOfCalling: 0
+  checkFromEnemyPokemonHealth: 0

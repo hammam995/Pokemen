@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: aa476cf34d3d46d478aa560a935400c6
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ORC_ R Thigh
+  - first:
+      1: 100002
+    second: ORC_ L Toe0
+  - first:
+      1: 100004
+    second: ORC_ L Foot
+  - first:
+      1: 100006
+    second: ORC_ L Calf
+  - first:
+      1: 100008
+    second: ORC_ R Toe0
+  - first:
+      1: 100010
+    second: ORC_ R Foot
+  - first:
+      1: 100012
+    second: ORC_ R Calf
+  - first:
+      1: 100014
+    second: ORC_ R Finger0
+  - first:
+      1: 100016
+    second: ORC_ R Hand
+  - first:
+      1: 100018
+    second: ORC_ R Forearm
+  - first:
+      1: 100020
+    second: ORC_ R UpperArm
+  - first:
+      1: 100022
+    second: ORC_ R Clavicle
+  - first:
+      1: 100024
+    second: ORC_ L Finger32
+  - first:
+      1: 100026
+    second: ORC_ L Finger31
+  - first:
+      1: 100028
+    second: ORC_ L Finger3
+  - first:
+      1: 100030
+    second: ORC_ L Finger22
+  - first:
+      1: 100032
+    second: ORC_ L Thigh
+  - first:
+      1: 100034
+    second: //RootNode
+  - first:
+      1: 100036
+    second: Structure001
+  - first:
+      1: 100038
+    second: ORC_ R Finger31
+  - first:
+      1: 100040
+    second: ORC_ R Finger3
+  - first:
+      1: 100042
+    second: ORC_ R Finger22
+  - first:
+      1: 100044
+    second: ORC_ R Finger21
+  - first:
+      1: 100046
+    second: ORC_ R Finger2
+  - first:
+      1: 100048
+    second: ORC_ R Finger12
+  - first:
+      1: 100050
+    second: ORC_ R Finger11
+  - first:
+      1: 100052
+    second: ORC_ R Finger1
+  - first:
+      1: 100054
+    second: ORC_ R Finger02
+  - first:
+      1: 100056
+    second: ORC_ R Finger01
+  - first:
+      1: 100058
+    second: Structure007
+  - first:
+      1: 100060
+    second: Structure002
+  - first:
+      1: 100062
+    second: Structure003
+  - first:
+      1: 100064
+    second: Structure006
+  - first:
+      1: 100066
+    second: Structure005
+  - first:
+      1: 100068
+    second: ORC_ Head
+  - first:
+      1: 100070
+    second: FOREARM_ARMOR
+  - first:
+      1: 100072
+    second: axe001
+  - first:
+      1: 100074
+    second: ORC_ R Finger32
+  - first:
+      1: 100076
+    second: ORC_ L Finger21
+  - first:
+      1: 100078
+    second: ORC_ L Finger2
+  - first:
+      1: 100080
+    second: ORC_ L Finger12
+  - first:
+      1: 100082
+    second: ORC_ L Finger11
+  - first:
+      1: 100084
+    second: ORC_ L Finger1
+  - first:
+      1: 100086
+    second: ORC_ L Finger02
+  - first:
+      1: 100088
+    second: ORC_ L Finger01
+  - first:
+      1: 100090
+    second: ORC_ L Finger0
+  - first:
+      1: 100092
+    second: ORC_ L Hand
+  - first:
+      1: 100094
+    second: ORC_ L Forearm
+  - first:
+      1: 100096
+    second: ORC_ L UpperArm
+  - first:
+      1: 100098
+    second: ORC_ L Clavicle
+  - first:
+      1: 100100
+    second: ORC_ Neck
+  - first:
+      1: 100102
+    second: ORC_ Spine1
+  - first:
+      1: 100104
+    second: ORC_ Spine
+  - first:
+      1: 100106
+    second: ORC_ Pelvis
+  - first:
+      1: 100108
+    second: ORC_
+  - first:
+      1: 100110
+    second: BELLY_CLOTHE
+  - first:
+      1: 100112
+    second: SHOULDER_PADS
+  - first:
+      1: 100114
+    second: ORC
+  - first:
+      1: 100116
+    second: ORC_ Queue de cheval 2
+  - first:
+      1: 100118
+    second: ORC_ Queue de cheval 13
+  - first:
+      1: 100120
+    second: ORC_ Queue de cheval 12
+  - first:
+      1: 100122
+    second: ORC_ Queue de cheval 11
+  - first:
+      1: 100124
+    second: ORC_ Queue de cheval 1
+  - first:
+      1: 100126
+    second: FOREARM_ARMOR001
+  - first:
+      1: 100128
+    second: ORC_PONYTAIL
+  - first:
+      1: 100130
+    second: BELLY_ARMOR
+  - first:
+      1: 100132
+    second: FOREARM_PAD_L
+  - first:
+      1: 100134
+    second: FOREARM_PAD_L001
+  - first:
+      1: 100136
+    second: ORC_BODY
+  - first:
+      1: 100138
+    second: PELT_SKIN_BACK_1
+  - first:
+      1: 100140
+    second: PELT_SKIN_BACK_2
+  - first:
+      1: 100142
+    second: PELT_SKIN_BACK_3
+  - first:
+      1: 100144
+    second: PELT_SKIN_FRONT_1
+  - first:
+      1: 100146
+    second: PELT_SKIN_FRONT_2
+  - first:
+      1: 100148
+    second: PELT_SKIN_FRONT_3
+  - first:
+      1: 100150
+    second: SHOULDER_PAD_L
+  - first:
+      1: 100152
+    second: SHOULDER_PAD_R
+  - first:
+      4: 400000
+    second: ORC_ R Thigh
+  - first:
+      4: 400002
+    second: ORC_ L Toe0
+  - first:
+      4: 400004
+    second: ORC_ L Foot
+  - first:
+      4: 400006
+    second: ORC_ L Calf
+  - first:
+      4: 400008
+    second: ORC_ R Toe0
+  - first:
+      4: 400010
+    second: ORC_ R Foot
+  - first:
+      4: 400012
+    second: ORC_ R Calf
+  - first:
+      4: 400014
+    second: ORC_ R Finger0
+  - first:
+      4: 400016
+    second: ORC_ R Hand
+  - first:
+      4: 400018
+    second: ORC_ R Forearm
+  - first:
+      4: 400020
+    second: ORC_ R UpperArm
+  - first:
+      4: 400022
+    second: ORC_ R Clavicle
+  - first:
+      4: 400024
+    second: ORC_ L Finger32
+  - first:
+      4: 400026
+    second: ORC_ L Finger31
+  - first:
+      4: 400028
+    second: ORC_ L Finger3
+  - first:
+      4: 400030
+    second: ORC_ L Finger22
+  - first:
+      4: 400032
+    second: ORC_ L Thigh
+  - first:
+      4: 400034
+    second: //RootNode
+  - first:
+      4: 400036
+    second: Structure001
+  - first:
+      4: 400038
+    second: ORC_ R Finger31
+  - first:
+      4: 400040
+    second: ORC_ R Finger3
+  - first:
+      4: 400042
+    second: ORC_ R Finger22
+  - first:
+      4: 400044
+    second: ORC_ R Finger21
+  - first:
+      4: 400046
+    second: ORC_ R Finger2
+  - first:
+      4: 400048
+    second: ORC_ R Finger12
+  - first:
+      4: 400050
+    second: ORC_ R Finger11
+  - first:
+      4: 400052
+    second: ORC_ R Finger1
+  - first:
+      4: 400054
+    second: ORC_ R Finger02
+  - first:
+      4: 400056
+    second: ORC_ R Finger01
+  - first:
+      4: 400058
+    second: Structure007
+  - first:
+      4: 400060
+    second: Structure002
+  - first:
+      4: 400062
+    second: Structure003
+  - first:
+      4: 400064
+    second: Structure006
+  - first:
+      4: 400066
+    second: Structure005
+  - first:
+      4: 400068
+    second: ORC_ Head
+  - first:
+      4: 400070
+    second: FOREARM_ARMOR
+  - first:
+      4: 400072
+    second: axe001
+  - first:
+      4: 400074
+    second: ORC_ R Finger32
+  - first:
+      4: 400076
+    second: ORC_ L Finger21
+  - first:
+      4: 400078
+    second: ORC_ L Finger2
+  - first:
+      4: 400080
+    second: ORC_ L Finger12
+  - first:
+      4: 400082
+    second: ORC_ L Finger11
+  - first:
+      4: 400084
+    second: ORC_ L Finger1
+  - first:
+      4: 400086
+    second: ORC_ L Finger02
+  - first:
+      4: 400088
+    second: ORC_ L Finger01
+  - first:
+      4: 400090
+    second: ORC_ L Finger0
+  - first:
+      4: 400092
+    second: ORC_ L Hand
+  - first:
+      4: 400094
+    second: ORC_ L Forearm
+  - first:
+      4: 400096
+    second: ORC_ L UpperArm
+  - first:
+      4: 400098
+    second: ORC_ L Clavicle
+  - first:
+      4: 400100
+    second: ORC_ Neck
+  - first:
+      4: 400102
+    second: ORC_ Spine1
+  - first:
+      4: 400104
+    second: ORC_ Spine
+  - first:
+      4: 400106
+    second: ORC_ Pelvis
+  - first:
+      4: 400108
+    second: ORC_
+  - first:
+      4: 400110
+    second: BELLY_CLOTHE
+  - first:
+      4: 400112
+    second: SHOULDER_PADS
+  - first:
+      4: 400114
+    second: ORC
+  - first:
+      4: 400116
+    second: ORC_ Queue de cheval 2
+  - first:
+      4: 400118
+    second: ORC_ Queue de cheval 13
+  - first:
+      4: 400120
+    second: ORC_ Queue de cheval 12
+  - first:
+      4: 400122
+    second: ORC_ Queue de cheval 11
+  - first:
+      4: 400124
+    second: ORC_ Queue de cheval 1
+  - first:
+      4: 400126
+    second: FOREARM_ARMOR001
+  - first:
+      4: 400128
+    second: ORC_PONYTAIL
+  - first:
+      4: 400130
+    second: BELLY_ARMOR
+  - first:
+      4: 400132
+    second: FOREARM_PAD_L
+  - first:
+      4: 400134
+    second: FOREARM_PAD_L001
+  - first:
+      4: 400136
+    second: ORC_BODY
+  - first:
+      4: 400138
+    second: PELT_SKIN_BACK_1
+  - first:
+      4: 400140
+    second: PELT_SKIN_BACK_2
+  - first:
+      4: 400142
+    second: PELT_SKIN_BACK_3
+  - first:
+      4: 400144
+    second: PELT_SKIN_FRONT_1
+  - first:
+      4: 400146
+    second: PELT_SKIN_FRONT_2
+  - first:
+      4: 400148
+    second: PELT_SKIN_FRONT_3
+  - first:
+      4: 400150
+    second: SHOULDER_PAD_L
+  - first:
+      4: 400152
+    second: SHOULDER_PAD_R
+  - first:
+      23: 2300000
+    second: FOREARM_ARMOR
+  - first:
+      23: 2300002
+    second: axe001
+  - first:
+      23: 2300004
+    second: FOREARM_ARMOR001
+  - first:
+      23: 2300006
+    second: FOREARM_PAD_L
+  - first:
+      23: 2300008
+    second: FOREARM_PAD_L001
+  - first:
+      23: 2300010
+    second: BELLY_ARMOR
+  - first:
+      23: 2300012
+    second: ORC_BODY
+  - first:
+      23: 2300014
+    second: ORC_PONYTAIL
+  - first:
+      23: 2300016
+    second: SHOULDER_PADS
+  - first:
+      33: 3300000
+    second: FOREARM_ARMOR
+  - first:
+      33: 3300002
+    second: axe001
+  - first:
+      33: 3300004
+    second: FOREARM_ARMOR001
+  - first:
+      33: 3300006
+    second: FOREARM_PAD_L
+  - first:
+      33: 3300008
+    second: FOREARM_PAD_L001
+  - first:
+      33: 3300010
+    second: BELLY_ARMOR
+  - first:
+      33: 3300012
+    second: ORC_BODY
+  - first:
+      33: 3300014
+    second: ORC_PONYTAIL
+  - first:
+      33: 3300016
+    second: SHOULDER_PADS
+  - first:
+      43: 4300000
+    second: ORC
+  - first:
+      43: 4300002
+    second: SHOULDER_PADS
+  - first:
+      43: 4300004
+    second: BELLY_CLOTHE
+  - first:
+      43: 4300006
+    second: FOREARM_ARMOR001
+  - first:
+      43: 4300008
+    second: axe001
+  - first:
+      43: 4300010
+    second: FOREARM_ARMOR
+  - first:
+      43: 4300012
+    second: ORC_PONYTAIL
+  - first:
+      43: 4300014
+    second: FOREARM_PAD_L
+  - first:
+      43: 4300016
+    second: FOREARM_PAD_L001
+  - first:
+      43: 4300018
+    second: ORC_BODY
+  - first:
+      43: 4300020
+    second: BELLY_ARMOR
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: BELLY_CLOTHE
+  - first:
+      137: 13700002
+    second: SHOULDER_PADS
+  - first:
+      137: 13700004
+    second: ORC
+  - first:
+      137: 13700006
+    second: ORC_PONYTAIL
+  - first:
+      137: 13700008
+    second: BELLY_ARMOR
+  - first:
+      137: 13700010
+    second: ORC_BODY
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ORC_AXE
+    second: {fileID: 2100000, guid: 547fd4cf5d14dac47b7bc61da6aee716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ORC_BODY
+    second: {fileID: 2100000, guid: 1ae63d9050799ff4f981f9adf4ae7e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ORC_GEAR
+    second: {fileID: 2100000, guid: 40e6610757dcf2d4fb28a1d4c4eddf2e, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - de0c994932c42e84eb25643e510b54d2
+  - f2bf9441de5bc7343b4b514e35890a04
+  - f7abe1b23e0f75340a0237ed9fd2738f
+  - 497ab5a489af4f04fbf571bd6fcaf38a
+  - 33ebaade017ab1b48888d8bb2bbbf9c1
+  - 04be999125b6d514db73c079888bf0a6
+  - ea655382d8e90794d8fcf517d133b481
+  - 9426e5820940ba44d937c214b9a05beb
+  - 895c8f98592eff34886bb8d8ba196d29
+  - cc131f43b0de5384a87bc52debb1811a
+  - 9aea2c17f68a0c54baeac5e36598ce15
+  - 9c563ad066af8be40a053898b50a13c6
+  - 172c197bf612f274193cf91984f74f11
+  - af2923d3b8457f8439be4254229f5572
+  - 734af2df4a7613748abd5a479b82eb4b
+  - a4df1608cb610d144a760ae166fe4b1f
+  - 0802321a640dd934785ee2e5bfcd61c7
+  - 0fe6fbaed1fe73a449507ada42b307ff
+  - 810593307e95b8844a4eb312d09f3d21
+  - afeded128f7879c48b7553a3f006eb42
+  - a46836fd855554247ae5089cbe7bb1d9
+  - 7336fec00f7510449b4bb8f19ff45ea7
+  - da61a40b9a0d024438f679caeced325d
+  - c877cd35806652345a337adee72740fb
+  - fccda02e63a7acb4db2a79065a6ac167
+  - b39e8c36d856d874ea1874cb49c2b1f4
+  - a7bb80e1345d25b47b0088b6df1886b9
+  - c6390c66044a8414bbbb0f7267af8ef6
+  - 9a62904f84362ff4ea64d9841cedc2d4
+  - 93991739a0c9be644805d05567610562
+  - 09b73ef2fcae8f84c855595be3b74c9f
+  - db8e2a2f8d972484995e6eb5f0937d20
+  - d838d881a89a4fe43ad993d93d71490b
+  - ab3f161c53a46834fa4042f9015f8208
+  - 5e4ea5056f6294a4d866eb4cd256f388
+  - cdc1cd12e268903479fb128c68b8a048
+  - 338bf0e5b8a623143acae8a2a840c5aa
+  - 1c6cde6d7b9d8ca488f3a563c8b70ca1
+  - f9be6873813f5644ea6142080d406814
+  - 573aff82bae1058418010453fa2b524f
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: ORC_
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
